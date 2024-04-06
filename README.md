@@ -3,7 +3,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1c7mnRnkDeC3N2KkrPKfo7SillNaLdHoO/view?usp=sharing](https://drive.google.com/file/d/1c7mnRnkDeC3N2KkrPKfo7SillNaLdHoO/view?usp=sharing)
 
-- <iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
