@@ -2,9 +2,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=shivanshu814&label=Profile%20views&color=0e75b6&style=flat" alt="shivanshu814" /> </p> -->
-**🌱 Currently, I am working as a Full Stack developer intern at [Bitcoin.com](https://www.bitcoin.com/)**
 
-**🔭 Aspiring MERN Stack developer and AI/ML enthusiastic aiming to create a positive influence in both areas.**
+**🔭 Full Stack developer and AI/ML enthusiastic aiming to create a positive influence in both areas.**
+
+**🌱 Currently, I am working as a Full Stack developer intern at [Bitcoin.com](https://www.bitcoin.com/)**
 
 **🌱 For about 2.5 months, I worked as a Frontend Developer (mainly utilizing React and Typescript) at Intellicuria, a medical startup: [Intellicuria LinkedIn](https://www.linkedin.com/company/intellicuria/)**
 
