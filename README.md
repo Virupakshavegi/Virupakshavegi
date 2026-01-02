@@ -5,7 +5,7 @@
 
 **🔭 Full Stack developer and AI/ML enthusiastic aiming to create a positive influence in both areas.**
 
-**🌱 Currently, I am working as a Full Stack developer intern at [Bitcoin.com](https://www.bitcoin.com/)**
+**🌱 Currently, I am working as a L1 Software Engineer at [Bitcoin.com](https://www.bitcoin.com/)**
 
 **🌱 For about 2.5 months, I worked as a Frontend Developer (mainly utilizing React and Typescript) at Intellicuria, a medical startup: [Intellicuria LinkedIn](https://www.linkedin.com/company/intellicuria/)**
 
