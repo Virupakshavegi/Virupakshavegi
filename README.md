@@ -1,57 +1,89 @@
-# Hi, I’m Virupaksha Vegi 👋
+<div align="center">
 
-### Software Engineer · Full Stack & Applied AI
+# Virupaksha Vegi
 
-I build production software at **Bitcoin.com**, working across modern **Next.js / Node.js** architectures and legacy **React / Gatsby.js / GraphQL** platforms. My interests span applied AI, RAG, machine learning and developer automation.
+### Software Engineer · Full Stack · Applied AI
 
-[Portfolio](https://portfolio-website-nu-teal.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/virupaksha-vegi/) · [LeetCode](https://leetcode.com/u/Virupakshavegi/) · [Email](mailto:virupakshavegi123@gmail.com) · [Resume](https://github.com/Virupakshavegi/Portfolio-website/blob/master/Virupaksha_Vegi_Resume.pdf)
+I build thoughtful, reliable product experiences — from responsive interfaces to the systems behind them.
 
-Based in **Rajahmundry, Andhra Pradesh, India**.
+[Portfolio](https://portfolio-website-nu-teal.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/virupaksha-vegi/) · [LeetCode](https://leetcode.com/u/Virupakshavegi/) · [Email](mailto:virupakshavegi123@gmail.com)
 
-## What I work on
+📍 Rajahmundry, India · **Software Engineer at Bitcoin.com**
 
-- **Production architecture:** migrating legacy sites to an Nx monorepo with Next.js, TypeScript, shared SDKs and reusable UI.
-- **Multilingual platforms:** Payload CMS, Docker-hosted MongoDB and DeepL localization across **35 languages**.
-- **Identity & subscriptions:** Stytch OAuth, OneSignal and in-house AllSignals APIs, with session checks, rate limits, feature flags and tests.
-- **Performance & discoverability:** indexing, sitemaps and technical SEO fixes contributing to **approximately 10% organic traffic recovery**, in collaboration with agencies and internal teams; observability through New Relic, Vercel and Search Console.
-- **Developer automation:** Claude Code / MCP workflows connecting issue reports and Linear tickets to PRs and production releases.
-- **Wallet experiences:** buy/sell, swap and payment provider integrations for Bitcoin.com’s Swift-based iOS wallet, validated on testnets.
-- **News migration:** ongoing work on legacy API/feed parity, multilingual SEO, Wallet compatibility and regression tests.
+</div>
 
-## Experience
+---
 
-| Role | Organization | Dates |
-| --- | --- | --- |
-| Software Engineer L1 | Bitcoin.com | May 2025 – Present |
-| Junior Full Stack Developer Intern | Bitcoin.com | May 2024 – May 2025 |
-| Full Stack AI Intern | Intellicuria | Dec 2023 – Feb 2024 |
+## At a glance
 
-At Bitcoin.com, I also architected and launched **BitSpinCasino**, shipped homepage, directory, gambling, referral, newsletter and research experiences, and built geo-aware widgets and Python content automation. At Intellicuria, I built React/TypeScript interfaces and Express.js APIs and fine-tuned deep learning and NLP models with medical-domain data.
+| **2+ years** | **35 languages** | **~10% recovery** |
+|:---:|:---:|:---:|
+| Building production software | Localization platform work | Organic traffic after technical SEO fixes |
 
-## Technical toolkit
+## What I build
 
-| Area | Technologies |
-| --- | --- |
-| Languages | TypeScript, JavaScript, Python, SQL, PHP, Java, C++ |
-| Frontend & mobile | React, Next.js, Gatsby.js, React Native, Flutter, Redux Toolkit, Tailwind CSS, HTML / CSS, SCSS |
-| Backend & data | Node.js, Express.js, FastAPI, REST APIs, GraphQL, MongoDB, MySQL, Payload CMS, WordPress, Spring Boot |
-| Applied AI & ML | RAG, LLMs, Transformers, LangChain, LangGraph, TensorFlow, Keras, scikit-learn, NumPy, Pandas, Matplotlib, NLP, Deep learning, Classification, Clustering, Regression, MLOps, Claude Code, Agentic coding |
-| Infrastructure & observability | Docker, Nx, Git, Vercel, GTM / GA4, Google tag / Consent Mode, Search Console, New Relic, Sentry, MCP, Selenium, Maven |
-| Web3 & cloud exposure | Bitcoin wallet / swap integrations, Solidity — limited hands-on, Foundry — limited hands-on, AWS S3 / Lambda — integration exposure |
+- **Product experiences** — responsive, accessible React and Next.js interfaces with reusable UI components.
+- **Platforms & APIs** — TypeScript services, GraphQL/REST integrations, CMS workflows and scalable monorepos.
+- **Applied AI** — document-grounded RAG systems, agent workflows and practical LLM integrations.
+- **Reliable launches** — observability, analytics, performance, security controls and release automation.
 
-## Selected projects
+## Selected work
 
-| Project | What it does | Stack |
-| --- | --- | --- |
-| Potato Disease Prediction | Potato-leaf disease image classification with an upload and prediction interface | Python, TensorFlow, Keras, FastAPI, React |
-| Gym Workout Tracker | Authenticated workout tracking with secure CRUD workflows | React, Node.js, Express.js, MongoDB, JWT |
-| React YouTube Clone | Video browsing, category navigation and search; deployed on Netlify | React, Material UI, Tailwind CSS, RapidAPI |
+**Bitcoin.com · Software Engineer**  
+Modernizing high-traffic web products with Next.js, TypeScript, Nx and Payload CMS. Shipped multilingual publishing across **35 languages**, subscription and newsletter flows, analytics, SEO improvements, and integrations for the Bitcoin.com iOS wallet.
 
-Explore my [public repositories](https://github.com/Virupakshavegi?tab=repositories) for available source code.
+**Bitcoin.com · Full Stack Developer Intern**  
+Built and maintained React/Gatsby experiences across Bitcoin.com, News, Games and Wallet, including the launch of **BitSpinCasino**.
+
+**Intellicuria · Full Stack AI Intern**  
+Built responsive React/TypeScript interfaces and Express APIs; worked on deep learning and NLP models with medical-domain data.
+
+<details>
+<summary><strong>More engineering highlights</strong></summary>
+
+- Helped recover approximately **10% of organic traffic** with indexing, sitemap, canonical metadata and technical SEO fixes.
+- Built subscription and newsletter flows with Stytch OAuth, server-side APIs, session validation and rate limits.
+- Added production monitoring and alerting with Sentry, New Relic, Vercel and Google Search Console.
+- Contributed features and provider integrations to a Swift-based Bitcoin wallet, validating transaction flows on testnets.
+
+</details>
+
+## Featured projects
+
+| Project | Snapshot | Built with |
+|:--|:--|:--|
+| **Apex Enterprise AI** | Document-grounded RAG assistant with uploads, chat history, guardrails and human approval workflows | Python · FastAPI · LangGraph · Bedrock · Pinecone · AWS |
+| **Potato Disease Prediction** | Leaf image classification with an upload and prediction interface | TensorFlow · Keras · FastAPI · React |
+| **Gym Workout Tracker** | Authenticated workout tracking with secure CRUD flows | React · Node.js · Express · MongoDB |
+| **React YouTube Clone** | Video browsing, categories and search | React · Material UI · RapidAPI |
+
+Browse [all public repositories](https://github.com/Virupakshavegi?tab=repositories).
+
+## Toolkit
+
+**Frontend**  
+React · Next.js · Gatsby · TypeScript · JavaScript · Tailwind CSS · React Native
+
+**Backend & data**  
+Node.js · Express · FastAPI · GraphQL · REST · MongoDB · PostgreSQL · MySQL · Payload CMS
+
+**AI & ML**  
+RAG · LangGraph · LangChain · AWS Bedrock · Pinecone · TensorFlow · Keras · scikit-learn
+
+**Cloud & quality**  
+AWS · Docker · Nx · GitHub Actions · Vercel · Sentry · New Relic · GA4 / GTM
 
 ## Education
 
-**Bennett University, Greater Noida** — B.Tech, Computer Science & Engineering · 2025 · **9.23/10 CGPA**  
-**Sri Shirdi Sai Junior College** — Class XII, Mathematics, Physics & Chemistry · 2021 · **92.7%**
+**Bennett University** · B.Tech, Computer Science & Engineering · 2025 · **9.34 / 10 CGPA**  
+**Sri Shirdi Sai Junior College** · Class XII, MPC · 2021 · **92.7%**
 
-Interested in thoughtful engineering, useful AI and products that solve real problems. [Let’s connect.](mailto:virupakshavegi123@gmail.com)
+---
+
+<div align="center">
+
+Open to thoughtful engineering, useful AI, and products that solve real problems.
+
+**[Let’s connect](mailto:virupakshavegi123@gmail.com)**
+
+</div>
